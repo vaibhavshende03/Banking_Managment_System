@@ -1,6 +1,6 @@
-# Banking_Managment_System
+# 🏦Banking_Managment_System🏦
 This Java-based console application provides essential banking functionalities using object-oriented programming (OOP) principles and JDBC for database connectivity. It’s designed to handle user registration, account management and transactions. 
-# Features
+# 🤩Features
 - User Registration & Login:
   - Users can register with their email and password.
   - Existing users can log in securely.
@@ -18,7 +18,7 @@ This Java-based console application provides essential banking functionalities u
     - Account holders can check their account balances.
     - Real-time balance retrieval from the database.
 
-# # 📸 Screenshots
+# # 📸 Screenshots 
 
 ![image](https://github.com/user-attachments/assets/5c190369-a9d3-4028-ac58-3f66cd6a41ae)<br>
 ![image](https://github.com/user-attachments/assets/b0d50512-9de5-4e99-b2a0-fc3de97dbdb7)<br>
